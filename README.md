@@ -1,7 +1,10 @@
 # Caesar
 Caesar cipher written in C++, the project was written just for fun :)
 
-## How to use it
+## Warning: 
+**Do not use to protect important data!**
+
+## How to use it:
 To use it in your code, don't forget to move the Encrypted.h header file and the Encrypted.cpp file to your code. Don't forget to connect the header file ;).
 > #include "Encrypted.h"
 
@@ -9,8 +12,10 @@ To use it in your code, don't forget to move the Encrypted.h header file and the
 
 Use functions: 
 > encrypted_text("Encrypt text"); - for encryption
-and
+>
 > decrypt_text("Decrypt text") - for decrypting
+
+Return values, string.
 
 ## License
 This Repository has MIT License.
