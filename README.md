@@ -3,6 +3,7 @@ Caesar cipher written in C++, the project was written just for fun :)
 
 ## Warning: 
 **Do not use to protect important data!**
+The author is automatically absolved of all responsibility
 
 ## How to use it:
 To use it in your code, don't forget to move the Encrypted.h header file and the Encrypted.cpp file to your code. Don't forget to connect the header file ;).
