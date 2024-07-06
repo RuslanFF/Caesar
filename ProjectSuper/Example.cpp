@@ -5,8 +5,12 @@
 using namespace std;
 
 int main() {
+    //Example
+
     string original_text, textEncrypted;
     getline(cin, original_text);
+
+    //Enter in the terminal the text that will be encrypted and decrypted in the future.
 
     cout << "Encrypted: " << encrypted_text(original_text) << endl;
 

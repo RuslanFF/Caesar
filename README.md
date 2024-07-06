@@ -3,6 +3,7 @@ Caesar cipher written in C++, the project was written just for fun :)
 
 ## Warning: 
 **Do not use to protect important data!**
+
 The author is automatically absolved of all responsibility
 
 ## How to use it:
